@@ -1,4 +1,6 @@
 # robofriends
+RoboFriends is a React-based web application that allows users to search for robot friends by name. The application fetches robot images and names from a public API and displays them in a responsive, user-friendly layout.
+
 Tutorial for React
 To run the project:
 
